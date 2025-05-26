@@ -1,2 +1,2 @@
-# PacManIII
-OGP project PacMan
+# PacMan
+"ObjectGerichtProgrammeren" project PacMan
