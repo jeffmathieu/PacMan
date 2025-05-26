@@ -1,1 +1,2 @@
 # PacManIII
+OGP project PacMan
